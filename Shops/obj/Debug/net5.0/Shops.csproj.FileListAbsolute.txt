@@ -1,0 +1,16 @@
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Shops\bin\Debug\net5.0\Shops.exe
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Shops\bin\Debug\net5.0\Shops.deps.json
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Shops\bin\Debug\net5.0\Shops.runtimeconfig.json
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Shops\bin\Debug\net5.0\Shops.runtimeconfig.dev.json
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Shops\bin\Debug\net5.0\Shops.dll
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Shops\bin\Debug\net5.0\ref\Shops.dll
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Shops\bin\Debug\net5.0\Shops.pdb
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Shops\obj\Debug\net5.0\Shops.csproj.AssemblyReference.cache
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Shops\obj\Debug\net5.0\Shops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Shops\obj\Debug\net5.0\Shops.AssemblyInfoInputs.cache
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Shops\obj\Debug\net5.0\Shops.AssemblyInfo.cs
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Shops\obj\Debug\net5.0\Shops.csproj.CoreCompileInputs.cache
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Shops\obj\Debug\net5.0\Shops.dll
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Shops\obj\Debug\net5.0\ref\Shops.dll
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Shops\obj\Debug\net5.0\Shops.pdb
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Shops\obj\Debug\net5.0\Shops.genruntimeconfig.cache

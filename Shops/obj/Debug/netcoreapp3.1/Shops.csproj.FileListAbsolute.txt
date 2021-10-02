@@ -1,0 +1,14 @@
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Shops\bin\Debug\netcoreapp3.1\Shops.exe
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Shops\bin\Debug\netcoreapp3.1\Shops.deps.json
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Shops\bin\Debug\netcoreapp3.1\Shops.runtimeconfig.json
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Shops\bin\Debug\netcoreapp3.1\Shops.runtimeconfig.dev.json
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Shops\bin\Debug\netcoreapp3.1\Shops.dll
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Shops\bin\Debug\netcoreapp3.1\Shops.pdb
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Shops\obj\Debug\netcoreapp3.1\Shops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Shops\obj\Debug\netcoreapp3.1\Shops.AssemblyInfoInputs.cache
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Shops\obj\Debug\netcoreapp3.1\Shops.AssemblyInfo.cs
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Shops\obj\Debug\netcoreapp3.1\Shops.csproj.CoreCompileInputs.cache
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Shops\obj\Debug\netcoreapp3.1\Shops.dll
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Shops\obj\Debug\netcoreapp3.1\Shops.pdb
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Shops\obj\Debug\netcoreapp3.1\Shops.genruntimeconfig.cache
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Shops\obj\Debug\netcoreapp3.1\Shops.csproj.AssemblyReference.cache
